@@ -1,2 +1,2 @@
 # TextStreamer
- text streaming endpoint using cloud Technologies
+ Text streaming endpoint using cloud Technologies
